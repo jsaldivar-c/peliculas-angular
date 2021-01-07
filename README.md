@@ -1,27 +1,44 @@
-# Peliculasapp
+# Aplicación Peliculas | Angular
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.7.
+Este proyecto fue generado con [Angular CLI](https://github.com/angular/angular-cli) _**version 10.0.7.**_
 
-## Development server
+<br>
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+![Peliculas | Angular](https://res.cloudinary.com/dlbfrbl8h/image/upload/v1610035891/GitHub/peliculas-app-angular_1_cqercl.png "Peliculas | Angular")
 
-## Code scaffolding
+![Peliculas | Angular](https://res.cloudinary.com/dlbfrbl8h/image/upload/v1610035891/GitHub/peliculas-app-angular_2_kvzppa.png "Peliculas | Angular")
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+![Peliculas | Angular](https://res.cloudinary.com/dlbfrbl8h/image/upload/v1610035891/GitHub/peliculas-app-angular_3_dfax6h.png "Peliculas | Angular")
 
-## Build
+### **Tecnologías | Lenguajes de Programación | Herramientas | Frameworks | Librerias**
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+<br>
 
-## Running unit tests
+> -   Framework **Angular 10.0.7**
+> -   Framework **Bootstrap 4.5**
+> -   TypeScript
+> -   ES6
+> -   Swiper
+> -   Animate CSS
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+### **Caracterisiticas**
 
-## Running end-to-end tests
+<br>
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+En este pequeño proyecto se trabaja con la API de The Movie Database para hacer una aplicación de búsqueda de películas trabajando con:
 
-## Further help
+> -   Http Get
+> -   Operadores de RXJS (Tap y Map)
+> -   Combinación de observables
+> -   Módulos
+> -   Servicios
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+<br>
+
+### Autor
+
+<br>
+
+Desarrollado en el curso _**Udemy | Angular de 0 a Avanzado | Fernando Herrera**_
+
+Realización de la practica: _**José Saldivar**_
