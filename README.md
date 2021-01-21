@@ -1,5 +1,9 @@
 # Aplicación Peliculas | Angular
 
+Ir a [PeliculasApp](https://josesaldivarc.com/angular/movies/).
+
+<br>
+
 Este proyecto fue generado con [Angular CLI](https://github.com/angular/angular-cli) _**version 10.0.7.**_
 
 <br>
